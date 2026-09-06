@@ -1,0 +1,63 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Django & Local Database
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+staticfiles/
+
+# Environment Variables & Secrets (Never commit)
+.env
+.env.*
+*.env
+!.env.example
+!.env*.example
+
+# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Frontend Build & Dependencies
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+node_modules/
+
+# Vercel Deployment Metadata
+.vercel/
+.vercel
+
+# IDE & Editor Files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Local Development / Personal Scripts (Do not commit)
+fake_history.py
+INTERVIEW_NOTES.md 
+INTERVIEW_NOTES.md 

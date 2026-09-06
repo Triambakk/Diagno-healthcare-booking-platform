@@ -1,0 +1,8 @@
+frontend/
+tests/
+.pytest_cache/
+.git/
+.gemini/
+.env
+*.env
+.env.*
