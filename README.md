@@ -1,6 +1,6 @@
 # DIAGNO
 
-Diagnostic Appointment Booking Platform
+Diagnostic Appointment Booking Platform.
 
 --
 
